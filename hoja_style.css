@@ -8,6 +8,11 @@ body{
     text-align: center;
 }
 .title{
-   
+  border-bottom: 10px;
   font-family: Verdana, Tahoma, sans-serif;
+}
+
+.logo{
+  width: 115px;
+  height: 110px;
 }
