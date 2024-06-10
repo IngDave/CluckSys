@@ -1,2 +1,2 @@
-# pollos_teda
-Programa para administrar negocios
+# CluckSys
+Programa para administrar negocios enfocado en sector avicola.
