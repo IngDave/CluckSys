@@ -5,16 +5,15 @@ body {
 .head {
   text-align: center;
   background-color: aliceblue;
+  text
 }
 
 .foot {
-  text-align: center;
-  background-color: aliceblue;
+  background-color: rgb(32, 32, 28);
 }
 
 .contenedor {
   background-color: rgb(243, 202, 17);
-  border-radius: 10cqmax;
   text-align: center;
 }
 
