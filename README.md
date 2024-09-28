@@ -1,3 +1,3 @@
 # CluckSys
-Programa para administrar negocios enfocado en sector avicola.
+Sistema de información para administrar negocios enfocado en sector avicola.
 En etapa de desarrollo.
